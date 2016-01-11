@@ -1,0 +1,19 @@
+{
+  "name": "mocha-cant",
+  "version": "0.0.1",
+  "description": "Can't run this, skip it.",
+  "main": "mocha-cant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadengore/mocha-cant.git"
+  },
+  "author": "Edward Bramanti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadengore/mocha-cant/issues"
+  },
+  "homepage": "https://github.com/jadengore/mocha-cant#readme"
+}
