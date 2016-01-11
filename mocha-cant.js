@@ -3,8 +3,8 @@ var mochaCant = function (mocha) {
     return;
   }
 
-  var Runnable = mocha.Runnable;
-  Runnable.prototype.cant = Runnable.prototype.skip;
+  var Context = mocha.Context;
+  Context.prototype.cant = Context.prototype.skip;
 
   mocha._mochaCantIsLoaded = true;
 }
